@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "NEZUMI Scheme",
+  "base_artist": "Mori Calliope",
+  "createdAt": "2026-02-12T08:55:35.028936Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "NEZUMI Scheme",
+      "artist": "Mori Calliope",
+      "has_synced": true,
+      "path": "select/01_NEZUMI_Scheme_Mori_Calliope.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "nezumi scheme",
+      "artist": "mori calliope",
+      "has_synced": true,
+      "path": "select/02_nezumi_scheme_mori_calliope.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "NEZUMI Scheme",
+      "artist": "Mori Calliope",
+      "has_synced": false,
+      "path": "select/pl_01_NEZUMI_Scheme_Mori_Calliope.txt"
+    }
+  ]
+}
